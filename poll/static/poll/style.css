@@ -3,5 +3,5 @@ li a {
 }
 
 body {
-    background-color: black;
+    background: white url("images/striped-background.png") no-repeat bottom rightR;
 }
